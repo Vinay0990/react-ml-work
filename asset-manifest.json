@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-ml-work/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/react-ml-work/static/js/main.8fe4b980.chunk.js",
+    "main.js.map": "/react-ml-work/static/js/main.8fe4b980.chunk.js.map",
+    "runtime-main.js": "/react-ml-work/static/js/runtime-main.69bdaf9f.js",
+    "runtime-main.js.map": "/react-ml-work/static/js/runtime-main.69bdaf9f.js.map",
+    "static/js/2.1511989b.chunk.js": "/react-ml-work/static/js/2.1511989b.chunk.js",
+    "static/js/2.1511989b.chunk.js.map": "/react-ml-work/static/js/2.1511989b.chunk.js.map",
+    "static/js/3.5c7ca610.chunk.js": "/react-ml-work/static/js/3.5c7ca610.chunk.js",
+    "static/js/3.5c7ca610.chunk.js.map": "/react-ml-work/static/js/3.5c7ca610.chunk.js.map",
+    "index.html": "/react-ml-work/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/react-ml-work/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.1511989b.chunk.js.LICENSE.txt": "/react-ml-work/static/js/2.1511989b.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-ml-work/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69bdaf9f.js",
+    "static/js/2.1511989b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.8fe4b980.chunk.js"
+  ]
+}
